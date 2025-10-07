@@ -1,6 +1,6 @@
 # Synchronous_fifo_new
 RTL :-
-//"Explore Electronics Plus" Youtube Channel
+
 module fifo_sync
     // Parameters section
     #( parameter FIFO_DEPTH = 8,
@@ -76,8 +76,6 @@ Testbench :-
 
 
 
-
-//"Explore Electronics Plus" Youtube Channel
 
 
 
